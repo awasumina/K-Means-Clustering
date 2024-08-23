@@ -20,7 +20,7 @@ In this project, we perform the following steps:
 
 
 ## Output Summary:
-The cluster centers represent the centroids of the 5 clusters in the feature space.The labels array indicates the cluster assignment for each data point.The unique labels and their counts give insight into the distribution of data points across clusters.
+The cluster centers represent the centroids of the 5 clusters in the feature space.The labels array indicates the cluster assignment for each data point.The unique labels and their counts give insight into the distribution of data points across clusters.   
 
    
 ## Results
