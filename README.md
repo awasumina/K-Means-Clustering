@@ -22,7 +22,7 @@ In this project, we perform the following steps:
 ## Output Summary:
 The cluster centers represent the centroids of the 5 clusters in the feature space.The labels array indicates the cluster assignment for each data point.The unique labels and their counts give insight into the distribution of data points across clusters.
 
-
+   
 ## Results
 
 The clustering model groups the data into 5 clusters based on the selected features. The scatter plot provides a visual representation of how the data points are grouped.
